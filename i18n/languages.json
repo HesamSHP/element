@@ -182,5 +182,9 @@
     "zh-hant": {
         "fileName": "zh_Hant.84212e8.json",
         "label": "繁體中文"
+    },
+	"fa": {
+        "fileName": "fa.8f7dbe3.json",
+        "label": "فارسی"
     }
 }
